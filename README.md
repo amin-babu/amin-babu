@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! I'm Badrul Amin Babu 👋
+I'm a passionate frontend developer with a love for building responsive and interactive web applications.
 
+## 💻 Skills
+- HTML, CSS, JavaScript
+- React, Next.js
+- Git, GitHub
+- Tailwind CSS
 
-**amin-babu/amin-babu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📦 Projects
+- [Biker Zone](https://github.com/yourusername/biker-zone): A responsive website for bikers to share experiences.
+- [Legal Solution](https://github.com/yourusername/legal-solution): A case-related website providing legal resources.
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
+I'm currently diving deeper into JavaScript and aiming to master React and Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 Learning Goals
+- Master CSS and JavaScript
+- Improve English speaking, listening and readin skills
+- Build a social media-like website with a rewards system
 
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/amin-babu)
+- Email: badrulaminbabu@gmail.com
+
+## 🎉 Fun Facts
+- I love reading self-help books.
+- I'm an introvert but enjoy networking online.
