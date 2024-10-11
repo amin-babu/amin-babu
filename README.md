@@ -10,8 +10,13 @@ I'm a passionate frontend developer with a love for building responsive and inte
 - Tailwind CSS
 
 ## 📦 Projects
-- [Biker Zone](https://github.com/yourusername/biker-zone): A responsive website for bikers to share experiences.
-- [Legal Solution](https://github.com/yourusername/legal-solution): A case-related website providing legal resources.
+- [Fruit Burst](https://amin-babu.github.io/Fruit-Burst/)
+- [Legal Solution](https://amin-babu.github.io/legal-Solution/)
+- [Biker Zone](https://amin-babu.github.io/Biker-Zone/)
+- [Developer Portfolio](https://amin-babu.github.io/web-developer-portfolio/)
+- [Penguin Fashion](https://amin-babu.github.io/Penguin-Fashion/)
+- [Flower Shop](https://amin-babu.github.io/Flower-Shop/)
+- [Coffee Shop](https://amin-babu.github.io/Coffee-House/)
 
 ## 🔭 Current Focus
 I'm currently diving deeper into JavaScript and aiming to master React and Next.js.
