@@ -3,6 +3,10 @@ I'm a passionate frontend developer with a love for building responsive and inte
 
 ![Cover Photo](https://media.licdn.com/dms/image/v2/D5616AQGSHHni8sm_dQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347706064?e=1733961600&v=beta&t=vo3eePnJdZqsBQSGg2m3lR7eeGVlJA7XzpTRdIHwmq8)
 
+## 👨‍💻 About Me
+
+I'm **Badrul Amin Babu**, a passionate **Front-End Developer** dedicated to creating responsive and visually appealing web applications. Proficient in **HTML**, **CSS**, and **JavaScript**, I focus on crafting pixel-perfect designs that enhance user experiences. With experience in frameworks like **Tailwind CSS** and version control using **Git/GitHub**, I strive to build intuitive interfaces that not only meet user needs but exceed their expectations. Let's connect and collaborate on exciting projects!
+
 ## 💻 Skills
 - HTML
 - CSS
