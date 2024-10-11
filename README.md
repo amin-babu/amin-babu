@@ -23,9 +23,9 @@ I'm a passionate frontend developer with a love for building responsive and inte
 I'm currently diving deeper into JavaScript and aiming to master React and Next.js.
 
 ## 🌱 Learning Goals
-- Master CSS and JavaScript
-- Improve English speaking, listening and readin skills
-- Build a social media-like website with a rewards system
+- Mastering CSS and JavaScript with a focus on responsive and pixel-perfect design.
+- Pursuing competitive programming to develop high-quality user-centric products.
+- Aiming to stay updated with the latest web technologies and trends.
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/amin-babu)
