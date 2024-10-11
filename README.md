@@ -10,8 +10,6 @@ I'm a passionate frontend developer with a love for building responsive and inte
 - Git, GitHub
 - Tailwind CSS
 
-## 🛠️ Frameworks and Tools
-
 <p align="left">
   <img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" title="HTML" />
   <img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS" title="CSS" />
