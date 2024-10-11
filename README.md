@@ -4,8 +4,9 @@ I'm a passionate frontend developer with a love for building responsive and inte
 ![Cover Photo](https://media.licdn.com/dms/image/v2/D5616AQGSHHni8sm_dQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347706064?e=1733961600&v=beta&t=vo3eePnJdZqsBQSGg2m3lR7eeGVlJA7XzpTRdIHwmq8)
 
 ## 💻 Skills
-- HTML, CSS, JavaScript
-- React, Next.js
+- HTML
+- CSS
+- JavaScript
 - Git, GitHub
 - Tailwind CSS
 
