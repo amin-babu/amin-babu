@@ -10,13 +10,13 @@ I'm a passionate frontend developer with a love for building responsive and inte
 - Tailwind CSS
 
 ## 📦 Projects
-- [Fruit Burst](https://amin-babu.github.io/Fruit-Burst/)
-- [Legal Solution](https://amin-babu.github.io/legal-Solution/)
-- [Biker Zone](https://amin-babu.github.io/Biker-Zone/)
-- [Developer Portfolio](https://amin-babu.github.io/web-developer-portfolio/)
-- [Penguin Fashion](https://amin-babu.github.io/Penguin-Fashion/)
-- [Flower Shop](https://amin-babu.github.io/Flower-Shop/)
-- [Coffee Shop](https://amin-babu.github.io/Coffee-House/)
+- [Fruit Burst](https://amin-babu.github.io/Fruit-Burst/): A fun interactive web application for fruit enthusiasts.
+- [Legal Solution](https://amin-babu.github.io/legal-Solution/): A case-related website providing legal resources.
+- [Biker Zone](https://amin-babu.github.io/Biker-Zone/): A responsive website for bikers to share experiences.
+- [Developer Portfolio](https://amin-babu.github.io/web-developer-portfolio/): My personal portfolio showcasing my skills and projects.
+- [Penguin Fashion](https://amin-babu.github.io/Penguin-Fashion/): An online fashion store with a focus on penguin-themed apparel.
+- [Flower Shop](https://amin-babu.github.io/Flower-Shop/): A beautifully designed website for a local flower shop.
+- [Coffee Shop](https://amin-babu.github.io/Coffee-House/): A cozy coffee shop website with menu and location details.
 
 ## 🔭 Current Focus
 I'm currently diving deeper into JavaScript and aiming to master React and Next.js.
