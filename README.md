@@ -1,6 +1,6 @@
 # Hi there! I'm Badrul Amin Babu 👋
 
-![Cover Photo]([https://media.licdn.com/dms/image/v2/D5616AQGSHHni8sm_dQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347706064?e=1733961600&v=beta&t=vo3eePnJdZqsBQSGg2m3lR7eeGVlJA7XzpTRdIHwmq8](https://media.licdn.com/dms/image/v2/D5616AQFSbsUEP6yWSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733596374131?e=1739404800&v=beta&t=aSBOGQwCyAJ-fni-sQ6tRoKL9HBUTIOiPwRabZydwUM))
+![Cover Photo]([https://media.licdn.com/dms/image/v2/D5616AQGSHHni8sm_dQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347706064?e=1733961600&v=beta&t=vo3eePnJdZqsBQSGg2m3lR7eeGVlJA7XzpTRdIHwmq8](https://media.licdn.com/dms/image/v2/D5616AQFSbsUEP6yWSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733596374131?e=1739404800&v=beta&t=aSBOGQwCyAJ-fni-sQ6tRoKL9HBUTIOiPwRabZydwUM)])
 
 ## 👨‍💻 About Me
 
