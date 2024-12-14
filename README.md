@@ -1,15 +1,17 @@
 # Hi there! I'm Badrul Amin Babu 👋
 
-![Cover Photo]([https://media.licdn.com/dms/image/v2/D5616AQGSHHni8sm_dQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347706064?e=1733961600&v=beta&t=vo3eePnJdZqsBQSGg2m3lR7eeGVlJA7XzpTRdIHwmq8](https://media.licdn.com/dms/image/v2/D5616AQFSbsUEP6yWSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733596374131?e=1739404800&v=beta&t=aSBOGQwCyAJ-fni-sQ6tRoKL9HBUTIOiPwRabZydwUM)])
+![Cover Photo](https://media.licdn.com/dms/image/v2/D5616AQFSbsUEP6yWSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733596374131?e=1739404800&v=beta&t=aSBOGQwCyAJ-fni-sQ6tRoKL9HBUTIOiPwRabZydwUM)
 
 ## 👨‍💻 About Me
 
-I'm **Badrul Amin Babu**, a passionate **Front-End Developer** dedicated to creating responsive and visually appealing web applications. Proficient in **HTML**, **CSS**, and **JavaScript**, I focus on crafting pixel-perfect designs that enhance user experiences. With experience in frameworks like **Tailwind CSS** and version control using **Git/GitHub**, I strive to build intuitive interfaces that not only meet user needs but exceed their expectations. Let's connect and collaborate on exciting projects!
+I'm **Badrul Amin Babu**, an aspiring **Full Stack Developer** currently enhancing my skills through a structured learning program. My expertise includes **HTML**, **CSS**, and **JavaScript**, with growing knowledge in **Python**, **Django**, and **React**. I'm passionate about building responsive, user-friendly web applications and constantly exploring new technologies to deliver exceptional digital experiences. Let’s connect and collaborate on innovative projects!
 
 ## 💻 Skills
+
 - HTML
 - CSS
 - JavaScript
+- Python
 - Git, GitHub
 - Tailwind CSS
 
@@ -17,13 +19,14 @@ I'm **Badrul Amin Babu**, a passionate **Front-End Developer** dedicated to crea
   <img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" title="HTML" />
   <img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS" title="CSS" />
   <img src="https://img.icons8.com/color/32/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.icons8.com/color/32/000000/python.png" alt="Python" title="Python" />
   <img src="https://img.icons8.com/color/32/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://img.icons8.com/color/32/000000/git.png" alt="Git" title="Git" />
   <img src="https://img.icons8.com/color/32/000000/github.png" alt="GitHub" title="GitHub" />
 </p>
 
-
 ## 📦 Projects
+
 - [Fruit Burst](https://amin-babu.github.io/Fruit-Burst/): A fun interactive web application for fruit enthusiasts.
 - [Legal Solution](https://amin-babu.github.io/legal-Solution/): A case-related website providing legal resources.
 - [Biker Zone](https://amin-babu.github.io/Biker-Zone/): A responsive website for bikers to share experiences.
@@ -33,17 +36,21 @@ I'm **Badrul Amin Babu**, a passionate **Front-End Developer** dedicated to crea
 - [Coffee Shop](https://amin-babu.github.io/Coffee-House/): A cozy coffee shop website with menu and location details.
 
 ## 🔭 Current Focus
-I'm currently diving deeper into JavaScript and aiming to master React and Next.js.
+
+I'm currently focused on mastering **Python**, **Django**, and **React** as part of my journey to become a proficient full stack developer.
 
 ## 🌱 Learning Goals
-- Mastering CSS and JavaScript with a focus on responsive and pixel-perfect design.
-- Pursuing competitive programming to develop high-quality user-centric products.
-- Aiming to stay updated with the latest web technologies and trends.
+
+- Building robust back-end applications using Python and Django.
+- Crafting interactive and dynamic front-end interfaces with React.
+- Staying updated with the latest trends in web development.
 
 ## 📫 Connect with Me
+
 - [LinkedIn](https://linkedin.com/in/amin-babu)
 - Email: badrulaminbabu@gmail.com
 
 ## 🎉 Fun Facts
-- I love reading self-help books.
-- I'm an introvert but enjoy networking online.
+
+- I love reading self-help and productivity books.
+- I'm an introvert but enjoy connecting with like-minded people online.
