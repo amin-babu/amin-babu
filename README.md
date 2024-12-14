@@ -35,6 +35,10 @@ I'm **Badrul Amin Babu**, an aspiring **Full Stack Developer** currently enhanci
 - [Flower Shop](https://amin-babu.github.io/Flower-Shop/): A beautifully designed website for a local flower shop.
 - [Coffee Shop](https://amin-babu.github.io/Coffee-House/): A cozy coffee shop website with menu and location details.
 
+## 🔗 Personal Portfolio
+
+You can explore my personal portfolio showcasing my journey, skills, and projects here: [Portfolio](https://amin-babu.github.io/Portfolio/)
+
 ## 🔭 Current Focus
 
 I'm currently focused on mastering **Python**, **Django**, and **React** as part of my journey to become a proficient full stack developer.
