@@ -25,6 +25,10 @@ I'm **Badrul Amin Babu**, an aspiring **Full Stack Developer** currently enhanci
   <img src="https://img.icons8.com/color/32/000000/github.png" alt="GitHub" title="GitHub" />
 </p>
 
+| Technology | Technology | Technology | Technology | ... |
+|---|---|---|---|---|
+| [<img src="path/to/logo1.png" alt="Technology 1">](link1) | [<img src="path/to/logo2.png" alt="Technology 2">](link2) | ... |
+
 ## 📦 Projects
 
 - [Fruit Burst](https://amin-babu.github.io/Fruit-Burst/): A fun interactive web application for fruit enthusiasts.
