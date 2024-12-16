@@ -25,9 +25,9 @@ I'm **Badrul Amin Babu**, an aspiring **Full Stack Developer** currently enhanci
   <img src="https://img.icons8.com/color/32/000000/github.png" alt="GitHub" title="GitHub" />
 </p>
 
-| Technology | Technology | Technology | Technology | ... |
-|---|---|---|---|---|
-| [<img src="path/to/logo1.png" alt="Technology 1">](link1) | [<img src="path/to/logo2.png" alt="Technology 2">](link2) | ... |
+| Technology | Technology | Technology | Technology |
+|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fdd1e802fdf116af831e6764/content/protips/images/javascript.png" alt="JavaScript">](https://www.javascript.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fdd1e802fdf116af831e6764/content/protips/images/typescript.png" alt="TypeScript">](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fdd1e802fdf116af831e6764/content/protips/images/php.png" alt="PHP">](https://www.php.net/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fdd1e802fdf116af831e6764/content/protips/images/docker.png" alt="Docker">](https://www.docker.com/) |
 
 ## 📦 Projects
 
