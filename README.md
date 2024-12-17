@@ -7,14 +7,6 @@
 I'm **Badrul Amin Babu**, an aspiring **Full Stack Developer** currently enhancing my skills through a structured learning program. My expertise includes **HTML**, **CSS**, and **JavaScript**, with growing knowledge in **Python**, **Django**, and **React**. I'm passionate about building responsive, user-friendly web applications and constantly exploring new technologies to deliver exceptional digital experiences. Let’s connect and collaborate on innovative projects!
 
 ## 💻 Skills
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- Git, GitHub
-- Tailwind CSS
-
 <p align="left">
   <img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" title="HTML" />
   <img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS" title="CSS" />
@@ -24,6 +16,13 @@ I'm **Badrul Amin Babu**, an aspiring **Full Stack Developer** currently enhanci
   <img src="https://img.icons8.com/color/32/000000/git.png" alt="Git" title="Git" />
   <img src="https://img.icons8.com/color/32/000000/github.png" alt="GitHub" title="GitHub" />
 </p>
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git, GitHub
+- Tailwind CSS
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
