@@ -1,6 +1,6 @@
 # Hi there! I'm Badrul Amin Babu 👋
 
-![Cover Photo](https://media.licdn.com/dms/image/v2/D5616AQFSbsUEP6yWSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733596374131?e=1739404800&v=beta&t=aSBOGQwCyAJ-fni-sQ6tRoKL9HBUTIOiPwRabZydwUM)
+![Cover Photo](https://pbs.twimg.com/media/GgTCQbzagAAtgBU?format=jpg&name=small)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
