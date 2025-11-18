@@ -1,4 +1,4 @@
-# Hi there! I'm Badrul Amin Babu 👋
+# Hi there! I'm Badrul Amin Babu - Frontend Developer 👋
 
 <img src="https://pbs.twimg.com/media/G6DcZNkbgAAp5We?format=jpg&name=large" width="850" />
 
