@@ -29,6 +29,16 @@ I'm **Badrul Amin Babu**, an aspiring **Frontend Developer** currently enhancing
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
+## 📊 GitHub Stats
+
+### 🚀 GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin-babu&show_icons=true&theme=react&hide_border=true)
+
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amin-babu&theme=react-dark&hide_border=true)
+
+
+
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-babu/)
