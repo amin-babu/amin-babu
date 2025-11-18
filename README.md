@@ -41,9 +41,9 @@ I'm **Badrul Amin Babu**, an aspiring **Frontend Developer** currently enhancing
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-babu/)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/AminBabuX)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/AMlNBABO/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:badrulaminbabu@gmail.com)
+- <a href="https://www.linkedin.com/in/amin-babu/" target="_blank">LinkedIn</a>
+- <a href="https://x.com/AminBabuX" target="_blank">X (Twitter)</a>
+- <a href="https://web.facebook.com/AMlNBABO/" target="_blank">Facebook</a>
+- **Email:** badrulaminbabu@gmail.com
 
 
