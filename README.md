@@ -1,8 +1,8 @@
 # Hi there! I'm Badrul Amin Babu 👋
 
-I'm **Badrul Amin Babu**, an aspiring **Frontend Developer** currently enhancing my skills through a structured learning program. My expertise includes **HTML**, **CSS**, **JavaScript**, **Tailwind**, and **React**, **Firebase** with growing knowledge in **Node.js**, **Express.js**, and **MongoDB** as part of my backend fundamentals. I'm passionate about building responsive, user-friendly web interfaces and constantly exploring new technologies to create smooth and modern digital experiences.
-
 <img src="https://pbs.twimg.com/media/G6DcZNkbgAAp5We?format=jpg&name=large" width="850" />
+
+I'm **Badrul Amin Babu**, an aspiring **Frontend Developer** currently enhancing my skills through a structured learning program. My expertise includes **HTML**, **CSS**, **JavaScript**, **Tailwind**, and **React**, **Firebase** with growing knowledge in **Node.js**, **Express.js**, and **MongoDB** as part of my backend fundamentals. I'm passionate about building responsive, user-friendly web interfaces and constantly exploring new technologies to create smooth and modern digital experiences.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
