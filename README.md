@@ -5,6 +5,15 @@
 ## About Me
 I'm **Badrul Amin Babu**, an aspiring **Frontend Developer** currently enhancing my skills through a structured learning program. My expertise includes **HTML**, **CSS**, **JavaScript**, **Tailwind**, and **React**, **Firebase** with growing knowledge in **Node.js**, **Express.js**, and **MongoDB** as part of my backend fundamentals. I'm passionate about building responsive, user-friendly web interfaces and constantly exploring new technologies to create smooth and modern digital experiences.
 
+## 📌 Current Work & Activities
+
+- 🔥 Actively building real-world projects to improve my Frontend & MERN skills  
+- 🚀 Learning advanced React concepts and building reusable components  
+- 🧩 Practicing API integration, authentication (JWT), and backend basics  
+- 🎯 Target: Build 10+ production-ready projects to be expert on web development  
+- 🛠️ Currently developing: **Zap Shift Resources – Parcel Management System Tools**
+
+
 ## 🔧 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -19,38 +28,12 @@ I'm **Badrul Amin Babu**, an aspiring **Frontend Developer** currently enhancing
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## 📦 Projects
+### 🌐 Connect With Me
 
-- [Fruit Burst](https://amin-babu.github.io/Fruit-Burst/): A fun interactive web application for fruit enthusiasts.
-- [Legal Solution](https://amin-babu.github.io/legal-Solution/): A case-related website providing legal resources.
-- [Biker Zone](https://amin-babu.github.io/Biker-Zone/): A responsive website for bikers to share experiences.
-- [Developer Portfolio](https://amin-babu.github.io/Dev-Portfolio/): My personal portfolio showcasing my skills and projects.
-- [Penguin Fashion](https://amin-babu.github.io/Penguin-Fashion/): An online fashion store with a focus on penguin-themed apparel.
-- [Flower Shop](https://amin-babu.github.io/Flower-Shop/): A beautifully designed website for a local flower shop.
-- [Coffee Shop](https://amin-babu.github.io/Coffee-House/): A cozy coffee shop website with menu and location details.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-babu/)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/AminBabuX)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/AMlNBABO/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:badrulaminbabu@gmail.com)
 
-## 🔗 Personal Portfolio
 
-You can explore my personal portfolio showcasing my journey, skills, and projects here: [Portfolio](https://amin-babu.github.io/Portfolio/)
-
-## 🔭 Current Focus
-
-I'm currently focused on mastering **Python**, **Django**, and **React** as part of my journey to become a proficient full stack developer.
-
-## 🌱 Learning Goals
-
-- Building robust back-end applications using Python and Django.
-- Crafting interactive and dynamic front-end interfaces with React.
-- Staying updated with the latest trends in web development.
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/amin-babu)
-- Email: badrulaminbabu@gmail.com
-
-## 🎉 Fun Facts
-
-- I love reading self-help and productivity books.
-- I'm an introvert but enjoy connecting with like-minded people online.
